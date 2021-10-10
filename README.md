@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex Chang (she/they).
+- 👋 Hi, I’m alex chang (she/they).
 - 🌱 I’m currently learning R for modeling and data visualization. 
 - 💞️ I’m a third-year student at Northwestern University studying Critical Race & Ethnic Studies, Legal Studies, and Data Science. 
 - 📫  alexandrachang2022@u.northwestern.edu

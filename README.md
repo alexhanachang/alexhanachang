@@ -1,13 +1,13 @@
 # About me
 
-Hello! My name is alex (she/they), and I am a senior at Northwestern University studying Critical Race & Ethnic Studies, Legal Studies, and Data Science. I will be graduating in June 2022, and I am currently seeking full-time Data Science job opportunities in the San Francisco Bay Area.
+Hello! My name is alex (she/they), and I am a senior at Northwestern University studying Critical Race & Ethnic Studies, Legal Studies, and Data Science. I will be graduating in June 2022, and I am currently seeking data science job opportunities in the San Francisco Bay Area.
 
 *Currently located on the ancestral and unceded lands of the Anishinaabe (specifically the Bodéwadmiakiwen, Odawa, and Ojibwe) as well as the Ho-Chunk, Menominee, and Myaamia (Miami) nations.*
 
 # Skills
 ## Languages and data tools
 #### *Advanced in:*
-* R (ggplot2, shiny, tidymodels, tidyverse)
+* R (ggplot2, RStudio, shiny, tidymodels, tidyverse)
 * SQL (MySQL, SQLite)
 * Microsoft Excel
 * git
@@ -15,8 +15,8 @@ Hello! My name is alex (she/they), and I am a senior at Northwestern University 
 * Python (NumPy, pandas, Plotly, PyMongo)
 * NoSQL (MongoDB)
 * Tableau
-* Java
 #### *Familiar with:*
+* Java
 * Hadoop
 * Spark
 

@@ -1,6 +1,6 @@
 # About me
 
-Hello! My name is alex (she/they), and I am a senior at Northwestern University studying Critical Race & Ethnic Studies, Legal Studies, and Data Science. I will be graduating in June 2022, and I am currently seeking data science job opportunities in the San Francisco Bay Area.
+Hello! My name is alex (she/they), and I am an incoming data engineer at Spotify. I am currently a senior at Northwestern University studying Critical Race & Ethnic Studies, Legal Studies, and Data Science, and I will be graduating in June 2022.
 
 *Currently located on the ancestral and unceded lands of the Anishinaabe (specifically the Bodéwadmiakiwen, Odawa, and Ojibwe) as well as the Ho-Chunk, Menominee, and Myaamia (Miami) nations.*
 

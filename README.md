@@ -1,8 +1,8 @@
 # About me
 
-Hello! My name is alex (she/they), and I am an incoming data engineer at Spotify. I am currently a senior at Northwestern University studying Critical Race & Ethnic Studies, Legal Studies, and Data Science, and I will be graduating in June 2022.
+Hello! My name is alex (she/they), and I am searching for full-time roles in data engineering and data science. I recently graduated from Northwestern University with a degree in Critical Race & Ethnic Studies, Legal Studies, and Data Science.
 
-*Currently located on the ancestral and unceded lands of the Anishinaabe (specifically the Bodéwadmiakiwen, Odawa, and Ojibwe) as well as the Ho-Chunk, Menominee, and Myaamia (Miami) nations.*
+*Currently located on the ancestral and unceded lands of the Ramaytush and Muwekma Ohlone peoples.*
 
 # Skills
 ## Languages and data tools
